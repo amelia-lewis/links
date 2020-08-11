@@ -81,3 +81,43 @@
 [Useful Sass mixins](https://medium.com/@vilcins/usefull-sass-mixins-7a68c5491bda)
 
 [CSS can do that?](https://dev.to/ananyaneogi/css-can-do-that-18g7)
+
+[CSS masonry with flexbox, :nth-child(), and order](https://tobiasahlin.com/blog/masonry-with-css/)
+
+## Design Systems
+
+[Design Systems](https://www.designsystems.com/)
+
+[Releasing Design Systems](https://medium.com/eightshapes-llc/releasing-design-systems-57fca91a23f6)
+
+[Design System Checklist](https://designsystemchecklist.com/)
+
+## Favicons
+
+[Favicon Checker](http://colinkeany.com/favicon-checker/)
+
+## Grids
+
+[Grid.Guide](http://grid.guide/)
+
+[Flexbox Grid](http://flexboxgrid.com/)
+
+[Visible Grid](https://stephenhutchings.github.io/visible-grid/demo/)
+
+[Toast • The no-nonsense CSS grid](http://daneden.github.io/Toast)
+
+[Raster—CSS Grid System](https://rsms.me/raster/)
+
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+
+## Mobile
+
+[Pttrns](https://pttrns.com/)
+
+## Website Inspiration
+
+[Httpster](https://httpster.net/2020/aug/)
+
+[One Page Love](https://onepagelove.com/)
+
+
