@@ -10,6 +10,8 @@
 
 [Who Can Use](https://whocanuse.com/)
 
+[IBM Accessibility](https://www.ibm.com/able/)
+
 ## Animation
 
 [Block Reveal Effects](https://tympanus.net/Development/BlockRevealers/)
@@ -17,6 +19,10 @@
 [Motion experiments by Michael Villar](http://www.michaelvillar.com/motion)
 
 [Rough Notation](https://roughnotation.com/)
+
+## Brand Guidelines
+
+[Find Guidelines](http://findguidelin.es/)
 
 ## CMSs
 
