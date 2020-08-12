@@ -20,6 +20,8 @@
 
 [Rough Notation](https://roughnotation.com/)
 
+[Tilt.js](http://gijsroge.github.io/tilt.js/)
+
 ## Brand Guidelines
 
 [Find Guidelines](http://findguidelin.es/)
@@ -114,9 +116,140 @@
 
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
+## Icons
+
+[Feather](https://feathericons.com/)
+
+[Jam Icons](https://jam-icons.com/)
+
+[Heroicons](http://www.heroicons.com/)
+
+[CopyChar](https://copychar.cc/)
+
+[Font Awesome](https://fontawesome.com/)
+
+[Squid Ink](https://thesquid.ink/)
+
+[Streamline Icons](https://www.streamlineicons.com/)
+
+[Animaticons](http://animaticons.co/
+
+[SVG Icons](http://svgicons.sparkk.fr/)
+
+[Twemoji](https://github.com/twitter/twemoji)
+
+[The Noun Project](https://thenounproject.com/)
+
+[365cons](http://www.365cons.com/)
+
+[Pixel Love](https://www.pixellove.com/)
+
+[OpenMoji](https://openmoji.org/)
+
+[ICONSVG](https://iconsvg.xyz/)
+
+## Illustrations
+
+[Blush](https://blush.design/)
+
+[unDraw](https://undraw.co/)
+
+[Fresh Folk](https://fresh-folk.com/)
+
+## Maps
+
+[Mapbox](https://www.mapbox.com/)
+
+## Meta Tags
+
+[Meta Tags](https://metatags.io/)
+
 ## Mobile
 
 [Pttrns](https://pttrns.com/)
+
+## React
+
+[React for Designers](https://reactfordesigners.com/)
+
+[Design+Code](https://designcode.io/)
+
+## Scrolling
+
+[Parallax.js](http://matthew.wagerfield.com/parallax/)
+
+[CSS only scroll indicator](https://codepen.io/MadeByMike/pen/ZOrEmr)
+
+[Midnight.js](http://aerolab.github.io/midnight.js/)
+
+[ScrollMagic](http://scrollmagic.io/)
+
+[Headroom.js](https://wicky.nillia.ms/headroom.js/)
+
+[Skrollr](http://prinzhorn.github.io/skrollr)
+
+## Static Site Generators
+
+[Harp.js](http://harpjs.com/)
+
+[Jekyll](https://jekyllrb.com/)
+
+[Hugo](https://gohugo.io/)
+
+[GatsbyJS](https://www.gatsbyjs.org/)
+
+[11ty](https://www.11ty.dev/)
+
+[Next.js](https://nextjs.org/)
+
+## Stock Images
+
+[Unsplash](https://unsplash.com/)
+
+[Icons8 - Photos](https://photos.icons8.com/)
+
+[Death to Stock](https://deathtothestockphoto.com/)
+
+[StockSnap](https://stocksnap.io/)
+
+[UI Faces](https://uifaces.co/)
+
+[Burst](https://burst.shopify.com/)
+
+[TONL](https://tonl.co/)
+
+[Adobe Stock](https://stock.adobe.com/)
+
+[Nappy](https://www.nappy.co/)
+
+[Pexels](https://www.pexels.com/)
+
+## SVG
+
+[Hero Patterns](http://www.heropatterns.com/)
+
+[Zdog](https://zzz.dog/)
+
+[Blobmaker](https://www.blobmaker.app/)
+
+[Get Waves](https://getwaves.io/)
+
+## Typography
+
+[Type Scale](https://type-scale.com/)
+
+[Google Font Combinations Library](https://fontcomb.kkuistore.com/)
+
+[Modularscale](https://www.modularscale.com/)
+
+[FontReach](https://www.fontreach.com/)
+
+[Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
+
+[Color Fonts](https://www.colorfonts.wtf/)
+
+[Variable Fonts](https://v-fonts.com/)
+
 
 ## Website Inspiration
 
