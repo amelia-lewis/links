@@ -10,7 +10,7 @@ Just some fonts I like, and wanted to save somewhere
 
 [Skyscapers](https://freefaces.gallery/cursive/skyscapers/)
 
-[Murmure](https://freefaces.gallery/display/murmure/
+[Murmure](https://freefaces.gallery/display/murmure/)
 
 [Yatra One](https://fonts.google.com/specimen/Yatra+One)
 
@@ -19,3 +19,13 @@ Just some fonts I like, and wanted to save somewhere
 [Montaga](https://fonts.google.com/specimen/Montaga)
 
 [Agrandir](https://pangrampangram.com/products/agrandir)
+
+[Universal Sans](https://universalsans.com/)
+
+[Inter](https://rsms.me/inter/)
+
+---
+
+[Free Faces](https://freefaces.gallery/)
+
+[Hex](https://hex.xyz/)
