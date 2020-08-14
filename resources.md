@@ -250,6 +250,8 @@
 
 [Variable Fonts](https://v-fonts.com/)
 
+[ratio](https://typeratio.com/)
+
 
 ## Website Inspiration
 
