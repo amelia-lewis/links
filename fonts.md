@@ -24,6 +24,8 @@ Just some fonts I like, and wanted to save somewhere
 
 [Inter](https://rsms.me/inter/)
 
+[Whyte](https://abcdinamo.com/typefaces/whyte)
+
 ---
 
 [Free Faces](https://freefaces.gallery/)
