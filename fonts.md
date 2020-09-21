@@ -26,6 +26,8 @@ Just some fonts I like, and wanted to save somewhere
 
 [Whyte](https://abcdinamo.com/typefaces/whyte)
 
+[Hobeaux](https://ohnotype.co/fonts/hobeaux)
+
 ---
 
 [Free Faces](https://freefaces.gallery/)
