@@ -188,6 +188,8 @@
 
 [Skrollr](http://prinzhorn.github.io/skrollr)
 
+[Stickyroll](https://stickyroll.github.io/react-stickyroll/)
+
 ## Static Site Generators
 
 [Harp.js](http://harpjs.com/)
