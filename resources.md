@@ -254,6 +254,10 @@
 
 [ratio](https://typeratio.com/)
 
+## Wallpaper
+
+[Wavey](https://hector.me/wavey)
+
 
 ## Website Inspiration
 
