@@ -62,6 +62,8 @@
 
 [colors.lol — Overly descriptive color palettes](https://colors.lol/)
 
+[CSS Gradient](https://cssgradient.io)
+
 ## Charts
 
 [Highcharts](https://www.highcharts.com/)
