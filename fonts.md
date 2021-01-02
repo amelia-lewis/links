@@ -28,6 +28,14 @@ Just some fonts I like, and wanted to save somewhere
 
 [Hobeaux](https://ohnotype.co/fonts/hobeaux)
 
+[Feijoa](https://klim.co.nz/retail-fonts/feijoa/)
+
+[Domaine Display](https://klim.co.nz/retail-fonts/domaine-display/)
+
+[Domaine Sans Display](https://klim.co.nz/retail-fonts/domaine-sans-display/)
+
+[Founders Grotesk](https://klim.co.nz/collections/founders-grotesk/)
+
 ---
 
 [Free Faces](https://freefaces.gallery/)
