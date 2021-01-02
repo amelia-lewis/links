@@ -36,6 +36,14 @@ Just some fonts I like, and wanted to save somewhere
 
 [Founders Grotesk](https://klim.co.nz/collections/founders-grotesk/)
 
+[Canela](https://commercialtype.com/catalog/canela)
+
+[Chiswick Sans](https://commercialtype.com/catalog/chiswick_sans)
+
+[Chiswick Serif](https://commercialtype.com/catalog/chiswick_serif)
+
+[Original Sans](https://commercialclassics.com/catalogue/original_sans)
+
 ---
 
 [Free Faces](https://freefaces.gallery/)
