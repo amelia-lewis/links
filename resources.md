@@ -134,7 +134,7 @@
 
 [Streamline Icons](https://www.streamlineicons.com/)
 
-[Animaticons](http://animaticons.co/
+[Animaticons](http://animaticons.co/)
 
 [SVG Icons](http://svgicons.sparkk.fr/)
 
